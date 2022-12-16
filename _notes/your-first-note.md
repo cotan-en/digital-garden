@@ -6,9 +6,9 @@ title: Your first seed：最初の種まき
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
 
-[[デジタルガーデン（personal knowledge management）というテーマのコレクションや輪読会イベントや勉強会]]
+[[digital-garden-articles]]
 
-### Link syntax
+### Link syntaxåœ
 
 To link to another note, you can use multiple syntaxes. The following four use the "double-bracket" notation ([view the Markdown source file](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/master/_notes/your-first-note.md#link-syntax) to see the underlying syntax).
 
