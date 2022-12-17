@@ -1,3 +1,7 @@
+---
+title: Digital Garden Resources
+---
+
 ## [デジタルガーデン - ナレッジスタック - Obsidian Publish](https://publish.obsidian.md/knowledgestack/notes/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3)
 
 

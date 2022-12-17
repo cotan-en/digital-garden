@@ -1,3 +1,7 @@
+---
+titele:digital wellbeing の今
+---
+
 webのどこを見ればもう少しdigれるのか
 
 - [https://wellbeing.google/](https://wellbeing.google/)

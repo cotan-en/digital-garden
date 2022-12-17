@@ -1,3 +1,7 @@
+---
+title: balance and harmony
+---
+
 memo: Digital well-beingの前に、さらにwell-beingの前提を考える上で考える。
 
   
@@ -39,4 +43,4 @@ memo: Digital well-beingの前に、さらにwell-beingの前提を考える上�
 ref.
 
 
-[[digtal-garden-articles]]
+[[digital-garden-articles]]
