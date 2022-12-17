@@ -1,5 +1,5 @@
 ---
-titele:digital wellbeing の今
+title:digital wellbeing の今
 ---
 
 webのどこを見ればもう少しdigれるのか
