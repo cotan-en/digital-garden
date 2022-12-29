@@ -1,5 +1,8 @@
 ---
-title: 枯淡苑のデジタルガーデン
+layout: page
+title: Home
+id: home
+permalink: /
 ---
 
 ほっげほげ
