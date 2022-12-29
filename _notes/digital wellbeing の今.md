@@ -17,5 +17,3 @@ webのどこを見ればもう少しdigれるのか
 - [https://books.google.co.uk/books?id=1OeCDwAAQBAJ](https://books.google.co.uk/books?id=1OeCDwAAQBAJ)
 - [https://sync.ithra.com/reports/SYNC_Global_digital_well-being_report_EN.pdf](https://sync.ithra.com/reports/SYNC_Global_digital_well-being_report_EN.pdf)
 
-
-[[digital-garden-articles]]
