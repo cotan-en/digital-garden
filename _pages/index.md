@@ -7,5 +7,5 @@ permalink: /
 
 枯淡苑のデジタルガーデンへようこそ🌱
 
-[[MOC_digital-gaden]]
+[[MOC digital garden]]
 
