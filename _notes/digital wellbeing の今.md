@@ -2,7 +2,7 @@
 title: digital wellbeing の今
 ---
 
-webのどこを見ればもう少しdigれるのか
+主にwebのリンク集。
 
 - [https://wellbeing.google/](https://wellbeing.google/)
 - [https://experiments.withgoogle.com/collection/digitalwellbeing](https://experiments.withgoogle.com/collection/digitalwellbeing)
