@@ -9,9 +9,12 @@ title: Digital Garden Resources
 非常に良い記事だった。もっと深めたい
 
 
- > Digital gardens explore a wide variety of topics and are frequently adjusted and changed to show growth and learning, particularly among people with niche interests. Through them, people are creating an internet that is less about connections and feedback, and more about quiet spaces they can call their own.
+ > Digital gardens explore a wide variety of topics and are frequently adjusted and changed to show growth and learning, particularly among people with niche interests.
+ > Through them, people are creating an internet that is less about connections and feedback, and more about quiet spaces they can call their own.
 
- > Tom Critchlow, a consultant who has been cultivating [his digital garden](https://tomcritchlow.com/wiki/) for years, spells out the main difference between old-school blogging and digital gardening. “With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
+
+ > Tom Critchlow, a consultant who has been cultivating [his digital garden](https://tomcritchlow.com/wiki/) for years, spells out the main difference between old-school blogging and digital gardening. 
+ > “With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
 
  > As a slower, clunkier way to explore the internet, they revel in not being _the_ definitive source, just _a_ source, says Mike Caulfield, a digital literacy expert at Washington State University.
 
@@ -113,12 +116,5 @@ no-codeも紹介されているけど、ほぼ有料。
 		- SNSやblogのいいね！数とは違った楽しみ（=インターネットの付き合い方）が広げられるのでは
 		- 双方向性の排除からできる箱庭
 	- 読んだものを一つのnodeにしてしまっても良いかもしれない
-		- 見栄え・咀嚼の観点から
-- #### 問い
-	- 自らのサイトをハイパーリンクを工夫したECストアにする方法はないか？
-		- notion でやってみる
-	- digital gardeningを補強・促進する本や読書会はできないか？
+
 -----
-
-
-#digital-garden
