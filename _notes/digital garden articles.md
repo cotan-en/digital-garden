@@ -6,6 +6,8 @@ title: Digital Garden Resources
 
 
 - [Digital gardens let you cultivate your own little bit of the internet | MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+
+
 非常に良い記事だった。もっと深めたい
 
 
@@ -14,6 +16,8 @@ title: Digital Garden Resources
 
 
  > Tom Critchlow, a consultant who has been cultivating [his digital garden](https://tomcritchlow.com/wiki/) for years, spells out the main difference between old-school blogging and digital gardening. 
+
+
  > “With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
 
  > As a slower, clunkier way to explore the internet, they revel in not being _the_ definitive source, just _a_ source, says Mike Caulfield, a digital literacy expert at Washington State University.
@@ -43,9 +47,13 @@ title: Digital Garden Resources
 > The timing coincided with a few complimentary ideas and communities rallying around personal knowledge systems, note-taking practices, and reimagining tools for blogging. The scene was ripe for new ideas around curating and sharing personal knowledge online.
 
 ![[Pasted image 20220829110817.png]]
+
+
 >Blogging evolved in the Premium Mediocre culture of Millenialism as a way to Promote Your Personal Brand™ and market your SEO-optimized Content. Weird, quirky personal blogs of the early 2000's turned into cleanly crafted brands with publishing strategies and media campaigns. Everyone now has a modern minimalist logo and an LLC.
 
+
 ![[Pasted image 20220829110804.png]]
+
 
  > It is also absurd to ignore the fact we're living in an audio-visual ==cornucopia== that the web makes possible.
 
