@@ -52,7 +52,7 @@ title: Digital Garden Resources
 
 - [The Future of MDX and Digital Gardening Panel](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens)Joel Hooks, Chris Biscardi, John Otander, and Kurt Kemple
 
-- [https://twitter.com/Mappletons/status/1250532315459194880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1250532315459194880%7Ctwgr%5E73e708f567c80fe2af94dd18dc9016669951a779%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmaggieappleton.com%2Fgarden-history](https://twitter.com/Mappletons/status/1250532315459194880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1250532315459194880%7Ctwgr%5E73e708f567c80fe2af94dd18dc9016669951a779%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmaggieappleton.com%2Fgarden-history)
+- [https://twitter.com/Mappletons/status/1250532315459194880](https://twitter.com/Mappletons/status/1250532315459194880)
 
 
 -  [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
@@ -83,10 +83,10 @@ title: Digital Garden Resources
 
 
 - [You and your mind garden - Ness Labs](https://nesslabs.com/mind-garden)
-	>　In French, “cultiver son jardin intérieur” means to _tend to your internal garden_—to take care of your mind. The garden metaphor is particularly apt: taking care of your mind involves cultivating your curiosity (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits).To tend to your garden, you need to plant new ideas. The best way to do this is by replanting stems and cuttings from existing ideas you’ve added to your garden—by consistently taking notes, and combining them together, a bit like grafting (Conor White-Sullivan, the founder of Roam, calls this [idea sex](https://nesslabs.com/conor-white-sullivan-interview)). 
+	> In French, “cultiver son jardin intérieur” means to _tend to your internal garden_—to take care of your mind. The garden metaphor is particularly apt: taking care of your mind involves cultivating your curiosity (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits). To tend to your garden, you need to plant new ideas. The best way to do this is by replanting stems and cuttings from existing ideas you’ve added to your garden—by consistently taking notes, and combining them together, a bit like grafting (Conor White-Sullivan, the founder of Roam, calls this [idea sex](https://nesslabs.com/conor-white-sullivan-interview)). 
 
 - コルヌトピアの引用
- > xxxx
+	> xxxx
 
 ------
 - #### 所感
@@ -96,3 +96,9 @@ title: Digital Garden Resources
 	- 読んだものを一つのnodeにしてしまっても良いかもしれない
 
 -----
+
+<style>
+  .wrapper {
+    max-width: 46em;
+  }
+</style>
