@@ -5,7 +5,7 @@ title: Digital Garden Resources
 - [デジタルガーデン - ナレッジスタック - Obsidian Publish](https://publish.obsidian.md/knowledgestack/notes/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3)
 
 
-- [Digital gardens let you cultivate your own little bit of the internet | MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+- [Digital gardens let you cultivate your own little bit of the internet MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 
 
 非常に良い記事だった。もっと深めたい
