@@ -4,11 +4,16 @@ title: デジタルガーデンに関する資料
 
 - [Digital gardens let you cultivate your own little bit of the internet （MIT Technology Review）](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
 	- 導入として良いサマリ記事。
+
+
 	> Digital gardens explore a wide variety of topics and are frequently adjusted and changed to show growth and learning, particularly among people with niche interests. Through them, people are creating an internet that is less about connections and feedback, and more about quiet spaces they can call their own.
+
 
 	> Tom Critchlow, a consultant who has been cultivating [his digital garden](https://tomcritchlow.com/wiki/) for years, spells out the main difference between old-school blogging and digital gardening. “With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
 
+
 	> As a slower, clunkier way to explore the internet, they revel in not being _the_ definitive source, just _a_ source, says Mike Caulfield, a digital literacy expert at Washington State University.
+
 
 	> “By engaging in digital gardening, you are constantly finding new connections, more depth and nuance,” he says. “What you write about is not a fossilized bit of commentary for a blog post. When you learn more, you add to it. It’s less about shock and rage; it’s more connective.”
 
@@ -20,7 +25,7 @@ title: デジタルガーデンに関する資料
 
 	> Blogging evolved in the Premium Mediocre culture of Millenialism as a way to Promote Your Personal Brand™ and market your SEO-optimized Content. Weird, quirky personal blogs of the early 2000's turned into cleanly crafted brands with publishing strategies and media campaigns. Everyone now has a modern minimalist logo and an LLC.
 
-	> It is also absurd to ignore the fact we're living in an audio-visual ==cornucopia== that the web makes possible.
+	> It is also absurd to ignore the fact we're living in an audio-visual ==cornucopia== that the web makes possible.[^ハイライトは枯淡苑による]
 
 	> This patch should not live on the servers of Facebook, LinkedIn, Twitter, Instagram (aka. also Facebook), or Medium. None of these platforms are designed to help you slowly build and weave personal knowledge. Most of them actively fight against it.
 
