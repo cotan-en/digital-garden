@@ -2,11 +2,8 @@
 title: デジタルガーデンに関する資料
 ---
 
-- [デジタルガーデン - ナレッジスタック - Obsidian Publish](https://publish.obsidian.md/knowledgestack/notes/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3)
-
-
-- [Digital gardens let you cultivate your own little bit of the internet | MIT Technology Review](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
-	- 非常に良い記事だった。もっと深めたい
+- [Digital gardens let you cultivate your own little bit of the internet （MIT Technology Review）](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
+	- 導入として良いサマリ記事。
 	> Digital gardens explore a wide variety of topics and are frequently adjusted and changed to show growth and learning, particularly among people with niche interests. Through them, people are creating an internet that is less about connections and feedback, and more about quiet spaces they can call their own.
 
 	> Tom Critchlow, a consultant who has been cultivating [his digital garden](https://tomcritchlow.com/wiki/) for years, spells out the main difference between old-school blogging and digital gardening. “With blogging, you’re talking to a large audience,” he says. “With digital gardening, you’re talking to yourself. You focus on what you want to cultivate over time.”
@@ -14,16 +11,6 @@ title: デジタルガーデンに関する資料
 	> As a slower, clunkier way to explore the internet, they revel in not being _the_ definitive source, just _a_ source, says Mike Caulfield, a digital literacy expert at Washington State University.
 
 	> “By engaging in digital gardening, you are constantly finding new connections, more depth and nuance,” he says. “What you write about is not a fossilized bit of commentary for a blog post. When you learn more, you add to it. It’s less about shock and rage; it’s more connective.”
-
-- [Library of Maggie Appleton](https://maggieappleton.com/library)
-とても面白い本が多い
-
-- [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html) (Mark Bernstein)
-	- ハイパーテキストによる文章、読者を惹きつける文章の作り方を文芸から得ようというもの。
-	- 庭を作っていくことに喩えている。
-	- gardens, parks, 枯淡苑の苑、でもある。
-	- [The Problem with the "Navigation Problem"](http://www.eastgate.com/garden/NavTech.html)
-		- [[suggested reading_theproblemwiththenavigationproblem]]がとても参考になる
 
 
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
@@ -39,26 +26,35 @@ title: デジタルガーデンに関する資料
 
 	> If any of those services go under, your writing and creations sink with it (crazier things have happened in the span of humanity). None of them have an easy export button. And they certainly won't hand you your data in a transferable format.
 
-### ==For Further Reading==
-- [#### The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)Mike Caulfield
 
-- [#### My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)Joel Hooks
+- [Hypertext Gardens](http://www.eastgate.com/garden/Enter.html) (Mark Bernstein)
+	- ハイパーテキストによる文章、読者を惹きつける文章の作り方を文芸から得ようというもの。
+	- 庭を作っていくことに喩えている。
+	- gardens, parks, 枯淡苑の苑、でもある。
+	- [The Problem with the "Navigation Problem"](http://www.eastgate.com/garden/NavTech.html)
+		- 「suggested reading_theproblemwiththenavigationproblem」がとても参考になる
 
-- [#### Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
 
-- [#### How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)Amy Hoy
+## ==For Further Reading==
+- [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)Mike Caulfield
 
-- [#### You and your mind garden](https://nesslabs.com/mind-garden)Anne-Laure Le Cunff
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)Joel Hooks
 
-- [#### Digital Gardening Terms of Service](https://www.swyx.io/writing/digital-garden-tos/)Shawn Wang
+- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
 
-- [#### The Future of MDX and Digital Gardening Panel](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens)Joel Hooks, Chris Biscardi, John Otander, and Kurt Kemple
+- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)Amy Hoy
+
+- [You and your mind garden](https://nesslabs.com/mind-garden)Anne-Laure Le Cunff
+
+- [Digital Gardening Terms of Service](https://www.swyx.io/writing/digital-garden-tos/)Shawn Wang
+
+- [The Future of MDX and Digital Gardening Panel](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens)Joel Hooks, Chris Biscardi, John Otander, and Kurt Kemple
 
 - [https://twitter.com/Mappletons/status/1250532315459194880](https://twitter.com/Mappletons/status/1250532315459194880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1250532315459194880%7Ctwgr%5E73e708f567c80fe2af94dd18dc9016669951a779%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmaggieappleton.com%2Fgarden-history)
 
 
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
->The second article is from Tom Critchlow titled [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/). What I really like about Tom's piece is his discussion of the idea of "non-performative blogging" in your personal space on the web.
+	> The second article is from Tom Critchlow titled [Building a Digital Garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/). What I really like about Tom's piece is his discussion of the idea of "non-performative blogging" in your personal space on the web.
 
 - [Building a digital garden](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
 
@@ -91,7 +87,12 @@ title: デジタルガーデンに関する資料
 
 	> To tend to your garden, you need to plant new ideas. The best way to do this is by replanting stems and cuttings from existing ideas you’ve added to your garden—by consistently taking notes, and combining them together, a bit like grafting (Conor White-Sullivan, the founder of Roam, calls this [idea sex](https://nesslabs.com/conor-white-sullivan-interview)).
 
-- コルヌトピアの引用
+- ~~[デジタルガーデン - ナレッジスタック - Obsidian Publish](https://publish.obsidian.md/knowledgestack/notes/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3)~~
+
+- [Library of Maggie Appleton](https://maggieappleton.com/library)
+とても面白い本が多い
+
+- 『コルヌトピア』（早川書房）の引用
 	> xxxx
 
 ------
