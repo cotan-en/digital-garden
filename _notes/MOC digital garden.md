@@ -3,14 +3,20 @@ title: 枯淡苑のデジタルガーデンの地図
 ---
 トピックごとに分類しています。
 
+## 🌍インターネット
 
-## 🌱デジタルガーデン/Digital Garden 
+### 🌱デジタルガーデン/Digital Garden 
 - [[digital garden articles|デジタルガーデンに関する資料]]
 - [[なぜ枯淡苑がデジタルガーデンをやるか]]
+- [[デジタルガーデン公開までに参考にした資料]]
 
-## 🖥デジタルウェルビーイング/Digital Well-Being
+### 🖥デジタルウェルビーイング/Digital Well-Being
 - [[balance and harmony|「バランス」と「ハーモニー」の差異]]
 - [[digital wellbeing の今]]
+- [[hyperlink]]
+
+### インディーウェブ/Indieweb
+- [[indieweb articles|インディーウェブに関する資料]]
 
 ## 📚本
 （種まき中）
@@ -38,6 +44,8 @@ title: 枯淡苑のデジタルガーデンの地図
 
 ## 👱‍♂️暮らし
 - [[コーピングリスト]]
+- [[愛用ITツール]]
+- [[野鳥観察・バードウォッチング・birdwatching]]
 
 ## 未分類
 （種まき中）
