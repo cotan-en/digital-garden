@@ -19,13 +19,15 @@ title: デジタルガーデンに関する資料
 
 
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+	- 英語文献で見る限り、おそらくもっともわかりやすくて長く深い記事。
+
 	> They're not following the conventions of the "_personal blog_," as we've come to know it. Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.
 
 	> The timing coincided with a few complimentary ideas and communities rallying around personal knowledge systems, note-taking practices, and reimagining tools for blogging. The scene was ripe for new ideas around curating and sharing personal knowledge online.
 
 	> Blogging evolved in the Premium Mediocre culture of Millenialism as a way to Promote Your Personal Brand™ and market your SEO-optimized Content. Weird, quirky personal blogs of the early 2000's turned into cleanly crafted brands with publishing strategies and media campaigns. Everyone now has a modern minimalist logo and an LLC.
 
-	> It is also absurd to ignore the fact we're living in an audio-visual ==cornucopia== that the web makes possible.[^ハイライトは枯淡苑による]
+	> It is also absurd to ignore the fact we're living in an audio-visual ==cornucopia== that the web makes possible. [^1]
 
 	> This patch should not live on the servers of Facebook, LinkedIn, Twitter, Instagram (aka. also Facebook), or Medium. None of these platforms are designed to help you slowly build and weave personal knowledge. Most of them actively fight against it.
 
@@ -97,8 +99,8 @@ title: デジタルガーデンに関する資料
 - [Library of Maggie Appleton](https://maggieappleton.com/library)
 とても面白い本が多い
 
-- 『コルヌトピア』（早川書房）の引用
-	> xxxx
+- 『コルヌトピア』（早川書房）の引用（庭園について）
+	> 「庭園は個別的で、相補的で、常に破綻の危険を内包している。庭はそういう、存在のひとつのモードなんです。人間と、動植物たちとの間につくることができる、倫理の一形態。ここではない別の世界を発生させる思考を空間化したものです。」
 
 ------
 - #### 所感
@@ -110,3 +112,4 @@ title: デジタルガーデンに関する資料
 
 
 -----
+[^1]: ハイライトは枯淡苑による
