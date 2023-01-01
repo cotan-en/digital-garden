@@ -1,0 +1,14 @@
+---
+title: クリエイティブコモンズで翻訳
+---
+- クリエイティブコモンズ関連
+	- [クリエイティブ・コモンズ・ライセンスのブログ翻訳のススメ](https://www.yamdas.org/column/technique/cctrans.html)
+	- [文章 | クリエイティブ・コモンズ・ジャパン](https://creativecommons.jp/category/features/features-text/)
+	- [『Wiki Way コラボレーションツールWiki』サポートページ](https://www.yamdas.org/wikiway/index.html)
+- 技術書（いつかチャレンジしたい）
+	- [FREESOULS - Just another free soul](https://freesouls.cc/essays/02-joi-ito-just-another-free-soul.html)
+	- [Peter Suber - Wikipedia](https://en.wikipedia.org/wiki/Peter_Suber#Selected_publications)
+	- [Codev2 - LESSIG](https://lessig.org/product/codev2)
+	- [https://upload.wikimedia.org/wikipedia/commons/f/fd/Code_v2.pdf](https://upload.wikimedia.org/wikipedia/commons/f/fd/Code_v2.pdf)
+- CC小説のリスト
+    - [Category:Creative Commons-licensed novels - Wikipedia](https://en.wikipedia.org/wiki/Category:Creative_Commons-licensed_novels)

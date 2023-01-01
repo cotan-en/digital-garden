@@ -2,6 +2,8 @@
 title: なぜ枯淡苑がデジタルガーデンをやるか
 ---
 
+- インターネットをするというのは、プラットフォームを使うことだけではない。自分が優しくなれる、クリエイティブになれる etc. 場所を自分で作り、継続できる場所でもある。(maggie appleton on dark forest)
+	- [The Dark Forest and the Cozy Web](https://maggieappleton.com/cozy-web)
 - 庭のアナロジーが、枯淡苑（本も花も）が目指したいあり方に合致する。
     - gardens, parks, 枯淡苑の苑、でもある。
 	- 庭づくりの効用
@@ -52,3 +54,4 @@ title: なぜ枯淡苑がデジタルガーデンをやるか
 
 ----
 - [[digital garden articles|デジタルガーデンに関する資料]]
+- [[デジタルガーデン公開までに参考にした資料]]

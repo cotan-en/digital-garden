@@ -26,7 +26,7 @@ title: コーピングリスト
 - お風呂・温泉に入る
 - 紙で何かを書く
 - 山に登る
-- エクリューのパンと城山公園
+- 近所でパンを買って城山公園
 - やりたくないこと・できないこと・嫌なことを書き出す
 - [Tools to help you with self-reflection - Blaz Kos - Performance Coaching](https://www.blazkos.com/tools-to-help-you-with-self-reflection/)
 - カフェでお茶をする
@@ -41,7 +41,7 @@ title: コーピングリスト
 	- [混沌とした生活の中でエネルギーを温存する方法 • Asana](https://asana.com/ja/resources/how-to-protect-your-energy)
 
 -------
-#### マイルール
+#### マイルール（例）
 - 時間をかけない
 - お金をかけない
 - 無理せずに実行できる

@@ -37,4 +37,4 @@ title: 愛用ITツール
     - 日記、アイデア熟成、スプレッドシート、ノート共有など、いろいろ試したけど結局他の特化ツールの方が良かったと感じた
 
 ----------
-[^1]: https://www.cotan-en.com/blogs/news/the-indieweb-movement
+[^1]: [https://www.cotan-en.com/blogs/news/the-indieweb-movement](https://www.cotan-en.com/blogs/news/the-indieweb-movement)
