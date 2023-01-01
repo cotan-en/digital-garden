@@ -3,7 +3,7 @@ title: クリエイティブコモンズで翻訳
 ---
 - クリエイティブコモンズ関連
 	- [クリエイティブ・コモンズ・ライセンスのブログ翻訳のススメ](https://www.yamdas.org/column/technique/cctrans.html)
-	- [文章 | クリエイティブ・コモンズ・ジャパン](https://creativecommons.jp/category/features/features-text/)
+	- [クリエイティブ・コモンズ・ジャパン](https://creativecommons.jp/category/features/features-text/)
 	- [『Wiki Way コラボレーションツールWiki』サポートページ](https://www.yamdas.org/wikiway/index.html)
 - 技術書（いつかチャレンジしたい）
 	- [FREESOULS - Just another free soul](https://freesouls.cc/essays/02-joi-ito-just-another-free-soul.html)
