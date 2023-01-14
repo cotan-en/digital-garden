@@ -9,11 +9,13 @@ title: 枯淡苑のデジタルガーデンの地図
 - [[digital garden articles|デジタルガーデンに関する資料]]
 - [[なぜ枯淡苑がデジタルガーデンをやるか]]
 - [[デジタルガーデン公開までに参考にした資料]]
+- [[Garden and Stream（庭と時系列について）]]
 
 ### 🖥デジタルウェルビーイング/Digital Well-Being
 - [[balance and harmony|「バランス」と「ハーモニー」の差異]]
 - [[digital wellbeing の今]]
 - [[hyperlink]]
+- [[text file]]
 
 ### インディーウェブ/Indieweb
 - [[indieweb articles|インディーウェブに関する資料]]
@@ -42,7 +44,7 @@ title: 枯淡苑のデジタルガーデンの地図
 （種まき中）
 
 ## 庭づくり
-- [[枯淡苑緑化計画]]
+- [[枯淡苑の緑化]]
 
 ## 👱‍♂️暮らし
 - [[コーピングリスト]]

@@ -44,12 +44,26 @@ title: デジタルガーデンに関する資料
 
 ## ==For Further Reading==
 - [The Garden and the Stream: A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)Mike Caulfield
+	> Ward Cunningham, the guy who invented the original wiki back in 1995, on the educational use of this new personal wiki technology
+	
+	> Your machine is a library not a publication device. You have copies of documents is there that you control directly, that you can annotate, change, add links to, summarize, and this is because the memex is a tool to think with, not a tool to publish with.
+
+	>  The “conversational web”. A web obsessed with arguing points. A web seen as a tool for self-expression rather than a tool for thought. A web where you weld information and data into your arguments so that it can never be repurposed against you. The web not as a reconfigurable model of understanding but of sealed shut presentations.
+
+	> And this is crucial to our talk here, because these abilities – to link, annotate, change, summarize, copy, and share — these are the verbs of gardening.
+
+	> we’re infatuated with the stream, infatuated with our own voice, with the argument we’re in, the 
+point we’re trying to make, the people in our circle we’re talking to.
+
 
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)Joel Hooks
 
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
 
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)Amy Hoy
+	> Homepages had a timeless quality, an index of interesting or useful or relevant things about a topic or about a person.
+	> Suddenly people weren’t creating homepages or even web pages, but they were writing web content in form fields and text areas inside a web page.
+
 
 - [You and your mind garden](https://nesslabs.com/mind-garden)Anne-Laure Le Cunff
 
@@ -58,6 +72,12 @@ title: デジタルガーデンに関する資料
 - [The Future of MDX and Digital Gardening Panel](https://egghead.io/lessons/egghead-sector-the-future-of-mdx-and-digital-gardens)Joel Hooks, Chris Biscardi, John Otander, and Kurt Kemple
 
 - [https://twitter.com/Mappletons/status/1250532315459194880](https://twitter.com/Mappletons/status/1250532315459194880?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1250532315459194880%7Ctwgr%5E73e708f567c80fe2af94dd18dc9016669951a779%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fmaggieappleton.com%2Fgarden-history)
+
+- [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/)
+	> The Stream is the blog, the news feed, the Twitter timeline, all that which flows past us in a line, delivered in discrete chunks, fixed in the fourth dimension with timestamps. The Garden is the wiki, the documentation, the Github repository, all that which continues to resemble itself, residing where it first cropped up, growing in spots, receding in others, what you see is the accumulation of all changes.
+
+	- Swaleという、庭でも時系列の流れでもない概念と方法論。
+	> A swale is a wide, flat stretch of land used to slow down water runoff and help it be reabsorbed into the earth. 
 
 
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)Tom Critchlow
