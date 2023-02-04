@@ -8,6 +8,12 @@ title: Garden and Stream（庭とタイムライン・フィードについて�
 - デジタルガーデン（Garden）は、その行為の実際は、ホームページでもあり、Wikiであり、ドキュメンテーションであり、Githubのレポジトリという変化の積み重ねとも言える。[The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/)
 - ここで考えていきたいのは、「Streamが我々に何をしたか？」。具体的には我々の感受性や情報摂取、判断や欲望にどんな影響を与えてきたのか。
 
+
+- 「人々はホームページやWebページを作ることを止め、Webコンテンツを作るようになった」
+- (How Blogs Broke the Web)[https://stackingthebricks.com/how-blogs-broke-the-web/]
+	> "Homepages had a timeless quality, an index of interesting or useful or relevant things about a topic or about a person."
+	> "Suddenly people weren’t creating homepages or even web pages, but they were writing web content in form fields and text areas inside a web page."
+
 ----
 - [[デジタルガーデンに関する資料]]
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
