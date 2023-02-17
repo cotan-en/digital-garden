@@ -10,7 +10,10 @@ title: 庭づくりの本
 - [庭(雑誌)](https://niwamag.net/)
 - [重森三玲 庭を見る心得](https://www.heibonsha.co.jp/book/b496980.html)
 - [ルネサンス庭園の精神史:権力と知と美のメディア空間](https://www.hakusuisha.co.jp/book/b457652.html)
-- 庭仕事の楽しみ（草思社）
+- 庭仕事の愉しみ（草思社）
+- 自然という幻想（草思社）
+- ボタニカル・ライフ
+- 園芸家の仕事
 
 ----
 - [[digital garden articles|デジタルガーデンに関する資料]]
