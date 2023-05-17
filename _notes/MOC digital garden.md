@@ -18,6 +18,8 @@ title: 枯淡苑のデジタルガーデンの地図
 - [[text file]]
 - [[Offline / Online]]
 - [[ネットの帰属意識]]
+- 「忘れられる権利」を行使する（工事中）
+- [[ビジネスとSNS]]
 
 ### インディーウェブ/Indieweb
 - [[indieweb articles|インディーウェブに関する資料]]
